@@ -3,7 +3,7 @@
 #include<string>
 using namespace std;
 int main() {
-	ifstream mypotoc("C:\\Users\\mesho\\OneDrive\\Рабочий стол\\Project2\\x64\\Debug\\Текстовый документ.txt");
+	ifstream mypotoc("Текстовый документ.txt");
 	
 	int N = 0;
 	string a;
